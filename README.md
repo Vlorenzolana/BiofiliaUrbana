@@ -1,5 +1,5 @@
 # BiofiliaUrbana
-Residenciy Interactivos?16 Madrid
+Residency Interactivos?16 MediaLabPrado Madrid
 /*Instructions from http://www.instructables.com/id/ARDUINO-UNO-TB6560-Stepper-motor-driver /*/
 /*Code from http://www.schmalzhaus.com/EasyDriver/Examples/Ea... */
 
