@@ -2,6 +2,12 @@
 /*Instructions form http://www.instructables.com/id/ARDUINO-UNO-TB6560-Stepper-motor-driver /*/
 /*Code from http://www.schmalzhaus.com/EasyDriver/Examples/Ea... */
 
+//SHAKER de BACTERIAS lateral
+//Las bacterias en medio líquido (lo que será nuestra tinta) les gusta estar en continuo movimiento y pegadas al calor 
+//generado por los motores de la maquina. Por ello hemos construido un disco acoplado al  eje del motor, que cambiara de 
+//direccion cada cuarto de vuelta aprox.
+
+
 int Distance = 0; // Record the number of steps we've taken 
 
 void setup() {
