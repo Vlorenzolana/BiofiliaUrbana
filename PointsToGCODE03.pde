@@ -24,7 +24,7 @@ ArrayList<PVector> points;
 void setup() {
   size(700, 700);
   smooth();
-  img = loadImage("BiofiliaUrbanaXS.png");
+  img = loadImage("MapaSigpacMAD2.png");
   cp5 = new ControlP5(this);
 
   cp5.addButton("compile")
