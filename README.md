@@ -1,7 +1,6 @@
 # BiofiliaUrbana
 Residency Interactivos?16 MediaLabPrado Madrid
-Una investigación de la micro-fauna y flora del entorno urbano, que se centrará en estudiar las conexiones entre los entornos urbanos, el mapeo de datos, organismos vivos y electro-informática. Consiste en un hackeo de impresora 3D para imprimir en 2D.
-
+Bacteria bioprinter in 2D.
 
 HOW TO RUN A BIOPRINTER
 
@@ -43,4 +42,8 @@ PRESS BUILD
 
 SEE THE MAGIC https://vlorenzolana.myportfolio.com/bioprinter
 
-
+CREDITS for all the colaborators: 
+Javier Roel, coder + co-designer + god
+Daniel Petrosemoli, builder + co-designer + god2
+Richard Timsi, Troubleshooter + moral support + god3
+Vanessa Lorenzo, Initiator, co-designer, troubleshooter + workshopologist.
