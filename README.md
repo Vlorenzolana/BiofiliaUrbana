@@ -27,7 +27,7 @@ SET UP REPLICATOR
 We are working on a MakerBot Thing-O-Matic (2010) with a Arduino ATMega 1280, a MightyBoard v2.4 and a ECB 3.6, commanded by the software ReplicatorG 0040 with the driver : Thingomatic w/HBP and Stepstruder MK7. Since this set up is quite old and I recently had to change to a McBook Pro 15' from 2017.. I had some problems with the drivers, if you have a Mac Os Sierra 10.9 or older you migth need to download:
 
     - the latest Arduino Drivers (on 15/05/18 I downloaded Arduino-1.8.5.McOsx.zip https://downloads.arduino.cc/arduino-1.8.5-macosx.zip)
-    - FTDIUSBSerialDriver_v2_4_2.dmg http://www.ftdichip.com/Drivers/VCP/MacOSX/FTDIUSBSerialDriver_v2_4_2.dmg
+    - FTDIUSBSerialDriver_v2_4_2.dmg http://download.tinbert.com/ired2/FTDIUSBSerialDriver_v2_4_2.dmg
     - and (in my case I was told that the Arduino ATMega 1280 was probably not Original...)you migth need this new drivers (on 15/05/18 I downloaded this from Adrian Mihalko's github https://github.com/adrianmihalko/ch340g-ch34g-ch34x-mac-os-x-driver/blob/master/CH34x_Install_V1.4.zip )
     NOTE: If you wanna give a try with Sailfish Installer http://www.sailfishfirmware.com/doc/install.html
 
