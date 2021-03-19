@@ -40,7 +40,7 @@ PRESS CONNECT
 OPEN (your date).gcode
 PRESS BUILD
 
-SEE THE MAGIC https://vlorenzolana.myportfolio.com/bioprinter
+SEE THE MAGIC https://hybridoa.org/prinkt-plastic-its-fantastic
 
 CREDITS for all the colaborators: 
 Javier Roel, coder + co-designer + god
